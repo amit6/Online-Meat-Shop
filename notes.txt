@@ -1,0 +1,17 @@
+* icon (only filled)
+checked box without checked 
+cancel
+
+chicken: [],
+meat: [],
+seaFood: [],
+cart: {
+	chicken: [{id:, totalItems:}],
+	meat: [{}],
+	seaFood: [{}],
+	totalPrice: 0,
+	tax: 20
+}
+user: 'guest',
+reviews: {},
+loggedIn: false

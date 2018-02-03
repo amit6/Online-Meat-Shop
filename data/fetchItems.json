@@ -1,0 +1,190 @@
+{
+  "data": {
+    "chicken": [
+		{
+			"id": "chck-101",
+			"name": "Chicken Breat(Boneless)",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 220",
+			"img-src": "/chicken/breast.jpeg",
+			"likes": "23"
+		},		
+		{
+			"id": "chck-104",
+			"name": "Chicken Leg",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 180",
+			"img-src": "/chicken/leg.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "chck-105",
+			"name": "Chicken Mince(Boneless)",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 260",
+			"img-src": "/chicken/mince.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "chck-102",
+			"name": "Chicken Curry-Cut",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 140",
+			"img-src": "/chicken/curry.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "chck-103",
+			"name": "Chicken Drumstick",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 150",
+			"img-src": "/chicken/drumstick.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "chck-106",
+			"name": "Chicken Thighs(Boneless)",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 200",
+			"img-src": "/chicken/thigh.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "chck-107",
+			"name": "Chicken Whole",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 160",
+			"img-src": "/chicken/whole.jpg",
+			"likes": "23"
+		}  
+    ],
+    "meat": [
+    	{
+			"id": "rd-meat-101",
+			"name": "Lamb Meat(Boneless)",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 290",
+			"img-src": "meat/boneless.png",
+			"likes": "23"
+		},
+		{
+			"id": "rd-meat-102",
+			"name": "Lamb Curry-Cut",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 320",
+			"img-src": "meat/curry-cut.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "rd-meat-103",
+			"name": "Lamb Shoulder",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 220",
+			"img-src": "meat/shoulder.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "rd-meat-104",
+			"name": "Lamb Mince",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 390",
+			"img-src": "meat/mince.jpg",
+			"likes": "23"		
+		},
+		{
+			"id": "rd-meat-105",
+			"name": "Lamb Biryani-Cut",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 410",
+			"img-src": "meat/biryani-cut.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "rd-meat-106",
+			"name": "Lamb Liver",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 150",
+			"img-src": "meat/liver.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "rd-meat-107",
+			"name": "Lamb Chops",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 260",
+			"img-src": "meat/chops.jpg",
+			"likes": "23"
+		}
+    ],
+    "seaFood": [
+		{
+			"id": "se-food-101",
+			"name": "Fish Steak",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 450",
+			"img-src": "sea-food/steak.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "se-food-102",
+			"name": "Fish Bengali-Cut",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 350",
+			"img-src": "sea-food/bengali.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "se-food-103",
+			"name": "Fish Fillet",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 370",
+			"img-src": "sea-food/fillet.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "se-food-104",
+			"name": "Lobster",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 1450",
+			"img-src": "sea-food/lobster.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "se-food-105",
+			"name": "Tiger Prawns",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 650",
+			"img-src": "sea-food/tiger-prawns.jpg",
+			"likes": "23"
+		},
+		{
+			"id": "se-food-106",
+			"name": "Fish Tuna",
+			"caption": "2 supple-textured, pink-coloured fillets taken from the breast bone for lean meat indulgence",
+			"weight": "500gm",
+			"price": "₹ 550",
+			"img-src": "sea-food/tuna.jpg",
+			"likes": "23"
+		}
+    ]
+  } 
+}
